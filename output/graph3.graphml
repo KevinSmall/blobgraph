@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns 
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="G" edgedefault="directed">
+    <node id="0x3527439923a63f8c13cf72b8fe80a77f6e572092"/>
+    <node id="0xa8cb082a5a689e0d594d7da1e2d72a3d63adc1bd"/>
+    <node id="0xa9232040bf0e0aea2578a5b2243f2916dbfc0a69"/>
+    <node id="0x0d3250c3d5facb74ac15834096397a3ef790ec99"/>
+    <node id="0x337a81113f934b8522459f0ca207eee7aa0f4545"/>
+    <node id="0x550f589100e379c8530c0564566d6e270ff13457"/>
+    <node id="0xf8a16864d8de145a266a534174305f881ee2315e"/>
+    <edge source="0x3527439923a63f8c13cf72b8fe80a77f6e572092" target="0xa8cb082a5a689e0d594d7da1e2d72a3d63adc1bd">
+      <data key="count">199</data>
+    </edge>
+    <edge source="0xa9232040bf0e0aea2578a5b2243f2916dbfc0a69" target="0x3527439923a63f8c13cf72b8fe80a77f6e572092">
+      <data key="count">68</data>
+    </edge>
+    <edge source="0x0d3250c3d5facb74ac15834096397a3ef790ec99" target="0xa8cb082a5a689e0d594d7da1e2d72a3d63adc1bd">
+      <data key="count">197</data>
+    </edge>
+    <edge source="0xa9232040bf0e0aea2578a5b2243f2916dbfc0a69" target="0x337a81113f934b8522459f0ca207eee7aa0f4545">
+      <data key="count">96</data>
+    </edge>
+    <edge source="0xa9232040bf0e0aea2578a5b2243f2916dbfc0a69" target="0x0d3250c3d5facb74ac15834096397a3ef790ec99">
+      <data key="count">29</data>
+    </edge>
+    <edge source="0xa9232040bf0e0aea2578a5b2243f2916dbfc0a69" target="0x550f589100e379c8530c0564566d6e270ff13457">
+      <data key="count">200</data>
+    </edge>
+    <edge source="0x337a81113f934b8522459f0ca207eee7aa0f4545" target="0xf8a16864d8de145a266a534174305f881ee2315e">
+      <data key="count">200</data>
+    </edge>
+  </graph>
+</graphml>

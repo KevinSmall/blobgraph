@@ -1,0 +1,9 @@
+add params to graphml like title saying what address is 
+
+use graphml lib?
+
+hook up to github
+
+tests
+
+what happens to recursive fn if it isnt able to collect enough associated transactions?
